@@ -6,6 +6,9 @@ public static void main(String[] args) {
     int a = sc.nextInt();
     int b = sc.nextInt();
     System.out.println(a + b);
+
+     submit data to database
+
    
     
 }
