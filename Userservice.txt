@@ -2,3 +2,6 @@ hello this is my user service
 get the user data 
 
 process the data 
+create an avatar for user 
+
+create a other avatar for user branch 
