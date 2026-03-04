@@ -4,4 +4,5 @@ get the user data
 process the data 
 create an avatar for user 
 
-create a other avatar for user branch 
+create a other avatar for user branch
+login and logout 
