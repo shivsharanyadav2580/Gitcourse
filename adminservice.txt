@@ -1,5 +1,6 @@
 Add and remove user 
 change the role 
+closibg the database connection
 
 chnage1 
 change 2 in my database
