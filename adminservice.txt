@@ -1,6 +1,6 @@
 Add and remove user 
 change the role 
-closibg the database connection
+closibg the database mysql  connection
 
 chnage1 
 change 2 in my database
