@@ -6,3 +6,4 @@ create an avatar for user
 
 create a other avatar for user branch
 login and logout 
+change 1
